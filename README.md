@@ -29,7 +29,7 @@ The Simple Quiz App is a lightweight web application that allows users to take q
 - Start taking quizzes and enjoy!
 
 ## Screenshots
-
+<img src="https://github.com/Hrik-Das/quiz-app/blob/main/image.png?plain=1" alt="quiz"/>
 
 ## Contributing
 
