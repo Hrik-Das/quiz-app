@@ -33,13 +33,11 @@ The Simple Quiz App is a lightweight web application that allows users to take q
 
 ## Contributing
 
-```bash
-Clone this repository:
-
-git clone https://github.com/your-username/simple-quiz-app.git
-
+## Clone this repository:
 If you'd like to contribute to the project, follow these steps:
-
+```bash
+git clone https://github.com/Hrik-Das/simple-quiz-app.git
+```
 1. Fork the repository.
 2. Create a new branch: git checkout -b feature/new-feature.
 3. Make your changes and commit them: git commit -m 'Add new feature'.
