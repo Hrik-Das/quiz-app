@@ -29,14 +29,14 @@ The Simple Quiz App is a lightweight web application that allows users to take q
 - Start taking quizzes and enjoy!
 
 ## Screenshots
-<img src="https://github.com/Hrik-Das/quiz-app/blob/main/image.png?plain=1" alt="quiz"/>
+<img src="https://github.com/hrik-das/quiz-app/blob/main/image.png?plain=1" alt="quiz"/>
 
 ## Contributing
 
 ## Clone this repository:
 If you'd like to contribute to the project, follow these steps:
 ```bash
-git clone https://github.com/Hrik-Das/simple-quiz-app.git
+git clone https://github.com/hrik-das/simple-quiz-app.git
 ```
 1. Fork the repository.
 2. Create a new branch: git checkout -b feature/new-feature.
