@@ -6,7 +6,6 @@ A minimalistic quiz application built with HTML, CSS, and JavaScript.
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -27,9 +26,6 @@ The Simple Quiz App is a lightweight web application that allows users to take q
 - Open the index.html file in your preferred web browser.
 
 - Start taking quizzes and enjoy!
-
-## Screenshots
-<img src="https://github.com/hrik-das/quiz-app/blob/main/image.png?plain=1" alt="quiz"/>
 
 ## Contributing
 
